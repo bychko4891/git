@@ -1,4 +1,8 @@
-git --version  - вывод версии Git
-git init       - инициализация папки проэкта для Git
-git status     - на какой ветке сейчас находимся
-Hello World
+git --version             - вывод версии Git
+git init                  - инициализация папки проэкта для Git
+git status                - на какой ветке сейчас находимся или проверить вносились ли изменения 
+git add git.txt           - добавление файла git.txt для отслеживания
+git commit -m "my commit" - сохранение изменений 
+git add .                 - добавление изменений всех файлов в директории
+
+Hello World - My world
