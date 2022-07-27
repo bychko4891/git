@@ -1,0 +1,4 @@
+git --version  - вывод версии Git
+git init       - инициализация папки проэкта для Git
+git status     - на какой ветке сейчас находимся
+Hello World
