@@ -7,4 +7,6 @@ git add .                     - добавление изменений всех
 git log                       - когда совершали commit
 git diff                      - показывает изменения
 git checkout (хеш код commit) - переключение между коммитами, что б посмотреть изменения
+git branch                    - просмотр на какой ветке сейчас находишься
+git checkout -b name          - создаем новую ветку
 Hello World - My world
