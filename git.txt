@@ -4,5 +4,5 @@ git status                - на какой ветке сейчас находи
 git add git.txt           - добавление файла git.txt для отслеживания
 git commit -m "my commit" - сохранение изменений 
 git add .                 - добавление изменений всех файлов в директории после нужно сохранить изменения сомандою commit
-
+git log                   - когда совершали commit
 Hello World - My world
